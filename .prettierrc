@@ -9,8 +9,9 @@
     "jsxBracketSameLine": false,
     "arrowParens": "avoid",
     "proseWrap": "always",
+  
     "Semicolons": true,
     "htmlWhitespaceSensitivity": "css",
     "jsxSingleQuote": true,
     "quoteProps": "as-needed"
-}
+  }
